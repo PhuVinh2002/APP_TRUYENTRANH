@@ -1,6 +1,6 @@
 # APP_TRUYENTRANH
 APP ĐỌC TRUYỆN MANGA ( phiên bản Android 12.0 )
-Tính năng:
+* Tính năng:
 + Không cần đăng nhập, Không có quảng cáo, luôn miễn phí
 + Duyệt manga và tiểu thuyết nhẹ không giới hạn
 + Duyệt theo thể loại
